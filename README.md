@@ -23,6 +23,8 @@ Desenvolvemos um algoritmo que através das informações recebidas por SMS se c
 
 O SMS pode ser usado por qualquer aparelho celular com chip ativo e créditos para SMS. O SMS ainda é enviado logo que tiver um sinal de telefonia disponível. 
 
+Utilizado em zonas remotas ou em momentos de crise (desastres) pode ajudar a encontrar informações, e para os gestores mapear as dúvidas e interesses dos usuários.
+
 Para manter este serviço gratuito, você irá receber um outro SMS de patrocinadores ou ganhar créditos a partir de respostas de opnião.
 
 É simples, é acessível, é gratuito. 
